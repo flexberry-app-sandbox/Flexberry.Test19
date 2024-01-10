@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-test1-услуга-e",
+  "editForm": "i-i-s-test1-услуга-e",
+  "external": false,
+  "caption": "Услуга",
+  "name": "IISTest1УслугаL",
+  "className": "УслугаL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-test1-услуга",
+      "modelProjection": "УслугаL"
+    }
+  ]
+}

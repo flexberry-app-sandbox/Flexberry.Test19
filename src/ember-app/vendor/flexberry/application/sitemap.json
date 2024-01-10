@@ -1,0 +1,36 @@
+﻿{
+  "applicationCaption": "Test1",
+  "applicationTitle": "Test1",
+  "items": [
+    {
+      "link": null,
+      "menuName": "test1",
+      "caption": "Test1",
+      "title": "Test1",
+      "children": [
+        {
+          "link": "i-i-s-test1-услуга-l",
+          "menuName": null,
+          "caption": "Услуга",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-test1-запись-l",
+          "menuName": null,
+          "caption": "Запись",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-test1-клиент-l",
+          "menuName": null,
+          "caption": "Клиент",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
